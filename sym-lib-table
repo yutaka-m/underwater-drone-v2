@@ -1,3 +1,5 @@
 (sym_lib_table
   (lib (name underwater2-rescue)(type Legacy)(uri ${KIPRJMOD}/underwater2-rescue.lib)(options "")(descr ""))
+  (lib (name underwater2-cache)(type Legacy)(uri C:/Users/alumi/underwater2/underwater2-cache.lib)(options "")(descr ""))
+  (lib (name autoplanter-rescue)(type Legacy)(uri C:/Users/alumi/autoplanter/autoplanter/autoplanter-rescue.lib)(options "")(descr ""))
 )
